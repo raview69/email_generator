@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
+	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
@@ -15,5 +16,8 @@
 	"bugs": {
 		"url": "https://github.com/raview69/email_generator/issues"
 	},
-	"homepage": "https://github.com/raview69/email_generator#readme"
+	"homepage": "https://github.com/raview69/email_generator#readme",
+	"dependencies": {
+		"node-fetch": "^3.2.1"
+	}
 }
