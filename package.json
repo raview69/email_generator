@@ -18,6 +18,7 @@
 	},
 	"homepage": "https://github.com/raview69/email_generator#readme",
 	"dependencies": {
+		"fs-extra": "^10.0.1",
 		"node-fetch": "^3.2.1"
 	}
 }
